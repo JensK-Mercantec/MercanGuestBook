@@ -23,7 +23,7 @@
 | 3 | [`camper0008`](https://github.com/camper0008) | _grøn > classic_ | [Website](https://tpho.dk) · [Fil](entries/camper0008.md) |
 | 4 | [`Mette04`](https://github.com/Mette04) | _Mette er bedre end Mathias til Buzz_ | [Website](https://github.com/Mette04) · [Fil](entries/Mette04.md) |
 | 5 | [`mtkonge`](https://github.com/mtkonge) | _Ned i teksten, op i ..._ | [Website](https://mtko.dk) · [Fil](entries/mtkonge.md) |
-| 6 | [`teezmand`](https://github.com/teezmand) | _<Hele mit liv har jeg troede luft var gratis, indtil jeg købte en pose chips.>_ | [Website](https://github.com/teezmand) · [Fil](entries/teezmand.md) |
+| 6 | [`teezmand`](https://github.com/teezmand) | _Hele mit liv har jeg troede luft var gratis, indtil jeg købte en pose chips_ | [Website](https://github.com/teezmand) · [Fil](entries/teezmand.md) |
 | 7 | [`Johnni`](https://github.com/Scootch1337) | _Find ikke fejl, find en løsning._ | [Website](https://github.com/Scootch1337) · [Fil](entries/Johnni.md) |
 
 <!-- GUESTBOOK_INDEX_END -->
