@@ -9,7 +9,7 @@
     <img alt="Guestbook" src="https://img.shields.io/badge/guestbook-entries-brightgreen?style=flat" />
   </p>
 </div>
-**Signaturer:** 4 · **Sortering:** ældste commit øverst
+**Signaturer:** 7 · **Sortering:** ældste commit øverst
 
 ---
 
